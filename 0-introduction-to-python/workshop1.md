@@ -88,6 +88,8 @@ If this command is not working, it is likely you have encountered an
 issue with your platform's setup with git.
 
 
+
+
 ## 1.2.2 Constructing a repository
 
 If you haven't already, please go to `github.com` and sign up for a github

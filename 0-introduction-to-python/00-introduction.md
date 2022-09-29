@@ -4,6 +4,8 @@ Here we introduce you to the basic usage of the Python language. We starting wit
 
 Here's the detailed plan for this week:
 
+
+
  1. Getting started
   - Basic command line usage
   - Hello Python!

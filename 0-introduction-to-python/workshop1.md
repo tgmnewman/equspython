@@ -155,6 +155,8 @@ Conversely I can define regions of memory that may hold a variable value. These 
 
 ```python
 variable = 2
+
+
 ```
 
 Unlike some other languages, variables in Python are untyped, the interpreter decides what the best type for the variable based on the data provided. This also implies that literals carry their own type which is then assumed by the variable.
